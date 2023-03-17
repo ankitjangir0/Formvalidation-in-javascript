@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+#myform{
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: wheat;
+    text-align: center;
+}
+#myform input{
+    padding: 1%;
+    text-align: center;
+    border-radius: 15%;
+}
+#myform p{
+color: red;
+}
